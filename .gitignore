@@ -31,3 +31,6 @@ app.*.map.json
 # Local environment
 .env
 .env.*
+.tools/
+config/dev.json
+__pycache__/

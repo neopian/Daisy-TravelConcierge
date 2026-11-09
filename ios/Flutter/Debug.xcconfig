@@ -1,2 +1,6 @@
 #include? "Pods/Target Support Files/Pods-Runner/Pods-Runner.debug.xcconfig"
 #include "Generated.xcconfig"
+
+// Build local simulators for the host CPU. Flutter 3.32's multi-arch lipo
+// verification is incompatible with Xcode 27 (flutter/flutter#188461).
+ARCHS[sdk=iphonesimulator*] = $(NATIVE_ARCH_ACTUAL)
