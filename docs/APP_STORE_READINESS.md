@@ -2,7 +2,7 @@
 
 Reviewed 2026-10-02 UTC, in the dot cloud Linux workspace. **Not ready for App Store submission.** This is an engineering checklist, not a legal opinion, final privacy label, approval prediction, or record of Apple review. No Apple account, Mac, signing credentials, device, production deployment, submission, upload, purchase, or public sharing was used.
 
-The folder name `DaisyOne-Malaga` identifies the work location. It does not choose the app's brand. The existing `Local Qa Concierge` display name, `com.example.localQaConcierge` bundle ID, signing-team value, and template artwork are deliberately retained until the owner makes those choices.
+The repository name `Daisy-TravelConcierge` identifies this project. It does not choose the app's brand. The existing `Local Qa Concierge` display name, `com.example.localQaConcierge` bundle ID, signing-team value, and template artwork are deliberately retained until the owner makes those choices.
 
 Status meaning: **CHECKED** means the stated source/configuration evidence was inspected; it does not imply native execution. **BLOCKED** needs implementation, native/deployment evidence, or operations. **DECISION** needs an owner choice. Integrated automated results belong in [VERIFICATION.md](VERIFICATION.md); prior web/widget/backend passes do not establish an iOS archive or physical-device pass.
 

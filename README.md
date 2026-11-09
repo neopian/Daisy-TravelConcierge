@@ -1,7 +1,7 @@
-# DaisyOne-Malaga
+# Daisy-TravelConcierge
 
 유럽·미국 주요 도시를 대상으로 준비 중인 여행자·로컬 가이드 1:1 Q&A 앱입니다.
-`DaisyOne-Malaga`는 작업 위치에서 유래한 저장소 이름이며, 서비스 이름은 아직 정하지 않았습니다. 기존 Flutter 화면과 이용 흐름을
+`Daisy-TravelConcierge`는 현재 저장소 이름이며, 서비스 이름은 아직 정하지 않았습니다. 기존 Flutter 화면과 이용 흐름을
 유지하면서 서버를 **자가 호스팅 Node.js + PostgreSQL**로 옮겼습니다.
 관리형 SQL 서비스, Supabase 계정, 실제 결제 서비스는 필요하지 않습니다.
 

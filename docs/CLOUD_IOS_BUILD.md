@@ -8,7 +8,7 @@ separate from the SDK used to build the app.
 ## Recorded native result
 
 The authorized free standard GitHub macOS run
-[36998188451](https://github.com/neopian/DaisyOne-Malaga/actions/runs/36998188451)
+[36998188451](https://github.com/neopian/Daisy-TravelConcierge/actions/runs/36998188451)
 compiled source `930c683a7f79fdd932c79d0d4aa63d2da8662715` after a disposable
 native bootstrap using Flutter 3.47.5, Xcode 26.6, iOS SDK 26.5 and CocoaPods
 1.16.2. Xcode `build analyze` returned zero in **144 seconds**; total run time
