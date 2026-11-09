@@ -17,8 +17,8 @@ Flutter, Riverpod, GoRouter, Supabase로 만든 모바일 우선 MVP입니다.
 준비합니다. 실제 복구 검증은 macOS에서 수행했습니다.
 
 ```bash
-git clone https://github.com/neopian/DaisyOne-Malaga.git local-qa-concierge
-cd local-qa-concierge
+git clone https://github.com/neopian/Daisy-TravelConcierge.git Daisy-TravelConcierge
+cd Daisy-TravelConcierge
 ./tool/setup.sh
 ```
 

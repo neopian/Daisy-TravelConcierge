@@ -30,7 +30,7 @@ concurrency:
 jobs:
   unsigned-ios:
     if: >-
-      github.repository == 'neopian/DaisyOne-Malaga' &&
+      github.repository == 'neopian/Daisy-TravelConcierge' &&
       github.ref == 'refs/heads/review/ios-unsigned-validation' &&
       github.run_attempt == '1' &&
       inputs.zero_cost_verified
